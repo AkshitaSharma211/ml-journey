@@ -75,5 +75,4 @@ Use Random Forest when → accuracy critical, tabular data
 - Always compare with stronger models like Random Forest
 - Good baseline before trying complex models
 
-## Files
-- `naive_bayes.ipynb` → Gaussian NB, Bernoulli NB, comparison with Random Forest
+...
