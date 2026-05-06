@@ -88,5 +88,4 @@ CV improved from 95.3% to 96.0%
 - stratify=y important for imbalanced datasets
 - Tuning improved CV from 95.3% to 96%
 
-## Files
-- `random_forest.ipynb` → full implementation on breast cancer dataset
+...
